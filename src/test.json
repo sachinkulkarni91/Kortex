@@ -1,0 +1,8 @@
+{
+    "incident_number": "INC0010001",
+    "status": "In Progress",
+    "inferred_status": "The ticket is likely **on hold** due to a credit issue with invoice INV-098977.  While the shipment is in progress, the invoice hold prevents completion.",
+    "servicenow_status": "In Progress",
+    "invoice_number": "INV-098977",
+    "comments": "2025-03-24 22:29:24 - System Administrator (Additional comments)\ntest\n\n2025-03-23 22:36:14 - System Administrator (Additional comments)\nThis order shipment is in progress\n\n"
+}
